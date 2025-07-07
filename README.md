@@ -4,7 +4,7 @@ This repository includes small projects that demonstrate basic image segmentatio
 
 ## Methods
 
-- [GrabCut](./grabcut)
--  [Watershed](./watershed)
+- [GrabCut](./grabcut_app)
+-  [Watershed](./watershed_app)
 
 Each folder contains a standalone Python script, explanation, and example images.
